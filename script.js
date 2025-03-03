@@ -2,10 +2,7 @@ import gsap from "https://cdn.skypack.dev/gsap@3.12.0";
 import ScrollTrigger from "https://cdn.skypack.dev/gsap@3.12.0/ScrollTrigger";
 
 document.querySelector("button.fluid").addEventListener("click", () => {
-  window.open(
-    "https://opzywl.github.io/gift-for-girlfriend/resources/image/gatinho.webp",
-    "_blank"
-  );
+  window.open("img.html", "_blank");
 });
 
 const config = {

@@ -313,12 +313,13 @@ div.tp-dfwv {
         display: none;
     }
     h1 {
-        --font-level: 12;
+        --font-level: 7;
         line-height: 1.5;
         text-align: center;
+        
     }
     section:first-of-type {
-        --font-level: 8;
+        --font-level: 3;
         padding-left: 2rem;
     }
     h2 {
